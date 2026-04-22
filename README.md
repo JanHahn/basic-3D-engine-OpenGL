@@ -8,7 +8,7 @@ Additionally, the project features basic camera movement and input handling, ena
 
 ## Screenshot
 
-![Screenshot](./screenshots/ss.png)
+![Screenshot](.ss.png)
 
 Work is ongoing, with current development focused on:
 
