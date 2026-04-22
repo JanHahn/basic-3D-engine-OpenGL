@@ -6,8 +6,6 @@ The engine includes a custom-written shader system, allowing full control over v
 
 Additionally, the project features basic camera movement and input handling, enabling navigation through the 3D space.
 
-## Screenshot
-
 ![Screenshot](./ss.jpeg)
 
 Work is ongoing, with current development focused on:
